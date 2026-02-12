@@ -15,7 +15,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   https://github.com/platinumrolex777/Yandex.Practicum-Yandex.Afisha.git
+   gh repo clone platinumrolex777/Yandex.Practicum-Yandex.Afisha
    cd yandex-afisha-loyalty-analysis
    ```
 
